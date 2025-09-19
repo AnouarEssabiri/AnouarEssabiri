@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anouaressabiri" target="blank"><img src="https://img.shields.io/twitter/follow/anouaressabiri?logo=twitter&style=for-the-badge" alt="anouaressabiri" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning software design principles (SOLID, Design Patterns)**
+- 🌱 **I’m currently learning software design principles (SOLID, Design Patterns)**
 
-- 💬 Ask me about **Ask me about full-stack development (React, Laravel, Express, SQL)**
+- 💬 **Ask me about full-stack development (React, Laravel, Express, SQL)**
 
 - 📫 How to reach me **anouaressabiri@gmail.com**
 
